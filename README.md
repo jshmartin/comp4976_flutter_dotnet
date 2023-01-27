@@ -2,7 +2,7 @@
  This repository is for COMP 4976 with Medhat Elmasry
 
 #
-### This project features a .NET backend that connects to a Flutter client that creates a simple realtime chat application
+### This project features a .NET backend that connects to a Flutter client to establish a simple realtime chat application
 #
 
 ## References
